@@ -1,4 +1,4 @@
-# Tablas-suplementarias---Tesis-GGH
+# Tablas-suplementarias-Tesis-GGH
 
 # Archivo Excel donde se encuentran las diferentes tablas obtenidas del experimento del scRNA-Seq realizado para la tesis de Gonzalo Gómez Hernández, titulada "Bank1 modula la diferenciación y el perfil molecular de las células B en el Lupus Eritematoso Sistémico". En estas tablas se encuentran todos los genes y procesos biológicos empleados para los diferentes análisis.
 # Este archivo Excel está dividido en 5 pestañas, o "Archivo de datos"
